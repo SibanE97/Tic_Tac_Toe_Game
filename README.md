@@ -7,7 +7,7 @@ A modern, responsive Tic Tac Toe web game built with HTML, CSS, and JavaScript �
 
 ## 🔗 Live Demo
 
-🎮 Try it out here on live running website: [Modern-Tic-Tac-Toe-WebGame](https://ttt-web-alpha.vercel.app/)
+🎮 Try it out here on live running website: [Tic-Tac-Toe-Game](https://ttt-web-alpha.vercel.app/)
 
 ## Features
 
@@ -102,7 +102,7 @@ Contributions are welcome to improve the game further!
 ## Issues
 
 Found a bug? Have a suggestion?  
-[Create a GitHub Issue](https://github.com/tbhvishal/Modern-Tic-Tac-Toe-WebGame/issues) — I’d love to hear from you!
+ I’d love to hear from you!
 
 ## License
 
@@ -110,14 +110,13 @@ This project is licensed under the **MIT License** — free for personal or comm
 
 ## Acknowledgments
 
-- Thanks to all open-source contributors.
 - Sounds and animations powered by simple logic and creativity — no external libraries used.
 
 ## Contact
 
 For collaboration or questions:
 
-- GitHub: [@tbhvishal](https://github.com/tbhvishal)
-- Email: [vishal95844@gmail.com](mailto:vishal95844@gmail.com)
+- GitHub: [SibanE97](https://github.com/SibanE97)
+- Email: [siphephelo2000mazibuko@gmail.com](mailto:siphephelo2000mazibuko@gmail.com)
 
 Let’s make simple games more fun and beautiful! 🕹️💡
