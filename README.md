@@ -7,7 +7,7 @@ A modern, responsive Tic Tac Toe web game built with HTML, CSS, and JavaScript �
 
 ## 🔗 Live Demo
 
-🎮 Try it out here on live running website: [Tic-Tac-Toe-Game](https://ttt-web-alpha.vercel.app/)
+🎮 Try it out here on live running website: [Tic-Tac-Toe-Game]((https://sibane97.github.io/Tic_Tac_Toe_Game/))
 
 ## Features
 
